@@ -1,7 +1,7 @@
 <h2 align="left">Welcome to my profile! 👋</h2>
 
 <p>
-  Estou imersa no universo do desenvolvimento web, explorando tecnologias como HTML, CSS, JavaScript, e frameworks como Bulma e Angular.
+  Estou imersa no universo do desenvolvimento web, explorando tecnologias como HTML, CSS, JavaScript, e frameworks como Bootstrap e Angular.
   Busco aprendizado para desenvolver soluções eficientes e automatizar processos.👩‍💻🚀
 
 </p>
