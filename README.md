@@ -1,8 +1,9 @@
 <h2 align="left">Welcome to my profile! 👋</h2>
 
 <p>
-  Estou imersa no universo do desenvolvimento web, explorando tecnologias como HTML, CSS, JavaScript, e frameworks como Bootstrap e Angular.
-  Busco aprendizado para desenvolver soluções eficientes e automatizar processos.👩‍💻🚀
+Desenvolvedora de Software com experiência em desenvolvimento, sustentação e integração de sistemas.
+
+Atualmente, trabalho principalmente com TOTVS Fluig e TOTVS RM, desenvolvendo soluções, integrações e automações para sistemas corporativos.👩‍💻🚀
 
 </p>
 
