@@ -1,5 +1,3 @@
-<h1 align="left">Olá! Eu sou a Jes 👋</h1>
-
 <p align="left">
   <strong>Desenvolvedora de Software</strong> com experiência em desenvolvimento, sustentação e integração de sistemas.
 </p>
