@@ -1,10 +1,3 @@
-<p align="left">
-  <strong>Desenvolvedora de Software</strong> com experiência em desenvolvimento, sustentação e integração de sistemas.
-</p>
-
-<p align="left">
-  Atualmente trabalho com <strong>TOTVS Fluig</strong> e <strong>TOTVS RM</strong>, desenvolvendo soluções para sistemas corporativos, integrações, automações e melhorias de processos.
-</p>
 
 ---
 
