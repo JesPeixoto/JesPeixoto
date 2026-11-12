@@ -1,69 +1,42 @@
+# Jessica Peixoto
+
+**Desenvolvedora Full Stack** com foco em **Python, APIs e integrações entre sistemas**.
+
+Trabalho com desenvolvimento de endpoints, consumo de APIs, tratamento de dados e automações. Gosto de transformar processos manuais em fluxos confiáveis, com testes, logs e tratamento de erro.
+
+Atualmente desenvolvo soluções corporativas com Fluig, TOTVS RM e integrações em Python.
 
 ---
 
-### 👩‍💻 Sobre mim
+## O que eu faço
 
-* 💻 Desenvolvimento e manutenção de soluções corporativas
-* 🔄 Integração entre sistemas e APIs
-* ⚙️ Desenvolvimento no TOTVS Fluig
-* 🗄️ Consultas e desenvolvimento com SQL
-* 🏢 Experiência com TOTVS RM
-* 🚀 Interesse em automação, desenvolvimento e novas tecnologias
+- APIs REST com Python (FastAPI e Flask)
+- Integração entre sistemas: REST, JSON, XML e SOAP
+- Automação de processos e tratamento de dados
+- SQL, testes, Docker e CI
 
-### 🛠️ Tecnologias
+## Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Sistemas & Plataformas**
+**Também:** JavaScript · HTML · CSS · Bootstrap · TOTVS Fluig · TOTVS RM
 
-`TOTVS Fluig` `TOTVS RM` `RM Reports`
+## Projeto em destaque
 
-**Banco de Dados**
+### [integration-lab](https://github.com/JesPeixoto/integration-lab)
 
-`SQL`
+API em Python que integra um sistema moderno a um ERP legado simulado. O projeto demonstra autenticação, idempotência, retry com backoff, tratamento de erros, logs estruturados, testes e CI.
 
-**Integrações**
-
-`REST APIs`
-
-**Ferramentas**
-
-`Git` `GitHub` `VS Code`
+`Python` `FastAPI` `httpx` `pytest` `Docker` `GitHub Actions`
 
 ---
 
-### 📊 GitHub
+## Contato
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesPeixoto&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesPeixoto&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top languages" />
-</div>
-
----
-
-### 📫 Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jessica-peixoto-362b77103/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jtpeixoto91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-peixoto-362b77103/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jtpeixoto91@gmail.com)
